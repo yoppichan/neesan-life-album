@@ -1,0 +1,9 @@
+{
+  "name":"ねーさん生活アルバム",
+  "short_name":"生活アルバム",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f7f3ee",
+  "theme_color":"#171717",
+  "icons":[]
+}
