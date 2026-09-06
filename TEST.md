@@ -1,0 +1,13 @@
+# 完成確認チェックリスト
+- [x] サーバー起動
+- [x] ログ保存
+- [x] ログ検索
+- [x] ログ削除API
+- [x] AI抽出（OPENAI_API_KEY設定時）
+- [x] APIキーなしのフォールバック抽出
+- [x] PWA manifest
+- [x] MCP initialize
+- [x] MCP tools/list
+- [x] MCP tools/call: record_life_event
+- [x] MCP tools/call: search_life_album
+- [x] MCP tools/call: recent_life_events
